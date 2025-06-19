@@ -34,7 +34,7 @@ header {
 .submenu {
     display: none;
     border: 2px solid red;
-    background-color: #fff;;
+    background-color: #fff;
     position: absolute;
     left: 0;
     width: 250px;
